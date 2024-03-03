@@ -28,11 +28,17 @@ timesにて情報共有。
 
 ■ 機能候補
 MVP
-会員登録、ログイン、投稿機能、コメント機能、いいね機能、プロフィール機能、運動メニュー作成、腰痛トリ育成機能
+会員登録、ログイン、投稿機能、プロフィール機能、運動メニュー作成、腰痛トリ育成機能
 
 本リリース
-ユーザー検索機能、LINE通知機能
+ユーザー検索機能、LINE通知機能能、コメント機能、いいね機能、
 
 ■ 機能の実装方針予定
 LINE Messaging API
 LINE Messaging API SDK for Ruby
+Tailwind CSS, daisyUI
+sorcery
+ruby 3.2.2
+rails  7.0.8
+Fly.io
+Mysql
